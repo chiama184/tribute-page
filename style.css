@@ -1,0 +1,33 @@
+#tribute-info {
+    background-color: whitesmoke;    
+    text-align: center;
+    width: 50%;
+    border-radius: 15px;
+    margin-left: auto;
+  margin-right: auto;
+  min-height: 50px;
+  }
+
+
+  #img-caption {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 5%;
+
+  }
+  
+    img {
+    border-radius: 10px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  padding: 5%;
+  }
+    
+
+body {
+    background-color:wheat;
+    color: rgb(78, 62, 62);
+  }
